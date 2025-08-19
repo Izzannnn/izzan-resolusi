@@ -1,6 +1,6 @@
 Rencana Belajar Bahasa Pemrograman
 
-3. JavaScript
+1. JavaScript
   *Next JS
   *React JS
   *Node. JS
