@@ -10,3 +10,6 @@ Rencana Belajar Bahasa Pemrograman
 -Python
  *Django
  *FastAPI
+-Golang
+ *Gin
+ *Fiber
