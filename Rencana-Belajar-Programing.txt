@@ -1,12 +1,15 @@
 Rencana Belajar Bahasa Pemrograman
 
--JavaScript
+1. JavaScript
   *Next JS
   *React JS
   *Node. JS
   *Vite
--Dart
-  * Flutter
--Python
+
+2. Python
  *Django
  *FastAPI
+
+3. Golang
+ *Gin
+ *Echo
