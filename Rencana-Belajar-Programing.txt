@@ -6,16 +6,11 @@ Rencana Belajar Bahasa Pemrograman
   *Node. JS
   *Vite
 
-2. Dart
-  * Flutter
-
-3. Python
+2. Python
  *Django
  *FastAPI
 
-4. Golang
+3. Golang
  *Gin
- *Fiber
+ *Echo
 
-5. PHP
- *Laravel
