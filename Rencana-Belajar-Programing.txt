@@ -8,3 +8,5 @@ Rencana Belajar Bahasa Pemrograman
 -Dart
   * Flutter
 -Python
+ *Django
+ *FastAPI
